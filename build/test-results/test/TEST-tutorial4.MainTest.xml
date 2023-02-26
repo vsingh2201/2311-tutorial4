@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tutorial4.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T05:26:59" hostname="echo-VM" time="0.006">
-  <properties/>
-  <testcase name="test()" classname="tutorial4.MainTest" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
